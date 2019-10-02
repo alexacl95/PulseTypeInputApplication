@@ -21,3 +21,5 @@ According to the above, the images and information presented in *PulseTypeInputA
 The [GSUA-CSB Toolbox](https://la.mathworks.com/matlabcentral/fileexchange/72637-gsua-csb) is supported by R2017a and above.
 
 If you want to run *PulseTypeInputApplication.mlx* as a normal script, copy the corresponding codes from here see [here](https://alexacl95.github.io/PulseTypeInputApplication/PulseTypeInputApplication.html) and, for more information, see the [user guide](https://drojasd.github.io/GSUA-CSB/gsua_userguide) from GSUA-CSB Toolbox. 
+
+[![DOI](https://zenodo.org/badge/212365409.svg)](https://zenodo.org/badge/latestdoi/212365409)
